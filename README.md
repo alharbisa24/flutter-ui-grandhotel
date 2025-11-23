@@ -46,7 +46,7 @@
 ![checkout](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/checkout.png)
 
 ### Select Date
-![selectdate](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/selectdate.png)
+![selectdate](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/selectDate.png)
 
 ### Add card
 ![addcard](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/add_card.png)
@@ -59,13 +59,4 @@
 
 ### Payment Completed
 ![payment_completed](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/payment_completed.png)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
 
