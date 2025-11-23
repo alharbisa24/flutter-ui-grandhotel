@@ -16,7 +16,7 @@
 ![otp](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/otp.png)
 
 ### OTP Verified
-![otpverifed](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/otpverified.png)
+![otpverifed](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/otp_verified.png)
 
 ### home 
 ![home](https://raw.githubusercontent.com/alharbisa24/flutter-ui-grandhotel/main/images/home.png)
